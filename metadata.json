@@ -1,0 +1,6 @@
+{
+  "name": "RuangMeet - Konferensi Video 100 Peserta & Durasi Tanpa Batas",
+  "description": "Aplikasi video conference premium seperti Zoom Meeting dengan kapasitas 100 orang, durasi tanpa batas waktu, fitur berbagi layar, papan tulis interaktif, ruang terpisah (breakout room), polling, dan rekaman.",
+  "requestFramePermissions": ["camera", "microphone", "display-capture"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
